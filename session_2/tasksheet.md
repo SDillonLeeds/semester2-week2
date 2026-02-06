@@ -60,7 +60,7 @@ This saves you needing to then convert the tuples for use with matplotlib or the
 5. Compute **total spent per customer**. Display the top 5 spenders.  
 6. Count **orders per product category** and show these in descending order. Challenge: Plot a bar chart to show this.
 7. Calculate **average number of products per order**.
-8. Summarize **deliveries by status** (`scheduled`, `delivered`, `failed`) and plot a pie chart.  
+8. Summarize **deliveries by status** (`scheduled`, `delivered`, `failed`) and plot a pie chart.
 
 ---
 
